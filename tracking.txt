@@ -1,0 +1,11 @@
+Intellifriend issues:
+---18.4.2019---
+1.if I click on the find textbox of vscode it tracks windows explorer for 1s.
+2.if I hover on regular expression icon of find textbox it start tracking it as a windows explorer.
+
+
+Desktime issues:
+---18.4.2019---
+1.at 4:30-4:35 desktime didn't track my photos app it shows this time as idle time.
+2.at 4:00-4:05 desktime show 5min 8sec time of vs code as active time.
+3.

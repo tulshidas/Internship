@@ -1,0 +1,4 @@
+30/[[:space:]]Days/[[:space:]]to/[[:space:]]Learn/[[:space:]]jQuery/*.mov filter=lfs diff=lfs merge=lfs -text
+largefiles/*.mov filter=lfs diff=lfs merge=lfs -text
+mid_presentation/Presentation.pptx filter=lfs diff=lfs merge=lfs -text
+'mid_presentation/Presentation.pptx' filter=lfs diff=lfs merge=lfs -text

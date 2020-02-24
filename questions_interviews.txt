@@ -1,0 +1,9 @@
+source:https://www.tutorialspoint.com/software_engineering/software_engineering_interview_questions.htm
+
+1.what is computer software
+ans:https://en.wikipedia.org/wiki/Software
+2.difference between software and programs
+ans: Collection of programs is called a software
+3.what is software engineering
+ans: Software engineering is the application of engineering to the development of software in a systematic method
+4.
